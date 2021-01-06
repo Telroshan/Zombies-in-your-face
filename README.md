@@ -8,7 +8,7 @@ Small game made in 2015 in Python with the [pygame](https://www.pygame.org/) lib
 - Then simply launch the `game.py` file.
 
 ## Inputs
-- Movement : WASD
+- Movement : ZQSD or WASD
 - Aim : Mouse
 - Shoot : Left click
 - Reload : R

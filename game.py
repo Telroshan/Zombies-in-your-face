@@ -524,13 +524,13 @@ while(run) :    # Boucle principale, en sortir signifie quitter le programme (lo
         if event.type == KEYDOWN :
             key = event.key     # On recupere la touche enfoncee
             # On associe la touche enfoncee au mouvement correspondant
-            if(key == pygame.K_w) :
+            if(key == pygame.K_w or key == pygame.K_z) :
                 hero.moving[UP] = True
             if(key == pygame.K_s) :
                 hero.moving[DOWN] = True
             if(key == pygame.K_d) :
                 hero.moving[RIGHT] = True
-            if(key == pygame.K_a) :
+            if(key == pygame.K_a or key == pygame.K_q) :
                 hero.moving[LEFT] = True
 
             if(key == pygame.K_SPACE) : # Raccourci pour mettre le jeu en pause
@@ -562,13 +562,13 @@ while(run) :    # Boucle principale, en sortir signifie quitter le programme (lo
         # Evenement "touche relachee"
         if event.type == KEYUP :
             key = event.key     # On recupere la touche relachee
-            if(key == pygame.K_w) :
+            if(key == pygame.K_w or key == pygame.K_z) :
                 hero.moving[UP] = False
             if(key == pygame.K_s) :
                 hero.moving[DOWN] = False
             if(key == pygame.K_d) :
                 hero.moving[RIGHT] = False
-            if(key == pygame.K_a) :
+            if(key == pygame.K_a or key == pygame.K_q) :
                 hero.moving[LEFT] = False
 
             if(in_game) :
