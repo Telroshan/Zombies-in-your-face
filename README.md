@@ -17,4 +17,4 @@ Small game made in high school in 2015, developed in Python with the [pygame](ht
 - Medikit : 1 (&)
 
 ## Credits
-Would have loved to add a credits section about the graphics assets, but all I could find from 5-6 years ago was a text file containing basically "found this stuff on the internet", sometimes along deadlinks such as [opengameart.com](http://opengameart.com) or [gmc.yoyogames.com](http://gmc.yoyogames.com)... Uh. Sorry about that.
+Would have loved to add a credits section about the graphics assets, but all I could find from 5-6 years ago was a text file containing basically "found this stuff on the internet", sometimes along deadlinks such as [opengameart.com](http://opengameart.com) or [gmc.yoyogames.com](http://gmc.yoyogames.com) _or stolen from Diablo ?_... Uh. Sorry about that.
