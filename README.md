@@ -1,5 +1,5 @@
 # Zombies in your face
-Small game made in 2015 in Python with the [pygame](https://www.pygame.org/) library.
+Small game made in high school in 2015 in Python with the [pygame](https://www.pygame.org/) library.
 
 ![image](https://user-images.githubusercontent.com/19146183/103818886-9f570300-5069-11eb-8a60-299773ddb608.png)
 
